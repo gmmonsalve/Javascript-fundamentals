@@ -19,6 +19,7 @@
 <table>
 <tr>
     <td align="center"><img src="contribuidores/30907973.png" width="100px;" alt=""/><br /><sub><b>Gabriela Monsalve</b></sub></a><br/></td>
+	<td align="center"><img src="contribuidores/rnavarro.png" width="100px;" alt=""/><br /><sub><b>Richard Navarro</b></sub></a><br/></td>
 </tr>
   
 </table>
